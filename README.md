@@ -6,7 +6,7 @@ The main aim of this project is to evaluate when did the states became polarized
 
 
 
-## Procedure:
+## WorkFlow:
 The project is divided in three stages, data gathering, data cleaning and data analysis. Stages 1 and 2 are in separate notebook, where modules are created than can be inported in the third notebook where the analysis is also done.
 
 ### 1. Obtain the data
