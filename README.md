@@ -26,6 +26,6 @@ Finally, in "data_analysis.ipynb" I use the modules created on "data_scraping" a
 
 ## Main Conclusions:
 - The changes on political party dominance by state, has more to do with changes on the party's mentality than on the voters. For example, a state that is conservative shifst from Democrat before 1950 (since democrats where conservative, pro-slavery etc) to Republican after 1950 (Republicans started to become more conservative after this date).
-
+- Just looking at elections is not enough to determine the conservative/liberal political dominance of the country. We would have to add on data on the political views of each party evolving through time.
 - Most of the states became polarized during 1990's.
 - Many states switched from Republican to Democrat
