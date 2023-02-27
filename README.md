@@ -1,10 +1,10 @@
 # USA elections : When did the country became polarized?
 
-In this project I analyse the results of the elections for President, Senators, House of Representatives and Governors since 1900 onwards. The data obtained is from 1789 onwards, but before 1900 the political environment was very unstable, therefore I ommit the 1789-1900 period.
+I have lived in USA for 9 years. I lived in Hawaii for 7 years where everyone I met was Democrat, so I thought most of the country was democrat too. Then, I got married and I moved to Florida, where everyone I have met was Republican. I have met and loved people from both states, so this strong disagreement in political views intrigued me. I have largely watch news from CNN and FOX trying to figure out what USA people really want. Unfirtunately, it seems that journalism is largeky biases, so I decided to do what Im best at: look at raw data to understand what is going on.
 
-The main aim of this project is to evaluate when did the states became polarized by becoming either Democrat or Republican.
+Thus,  I scraped and analyses the results of elections for Presidents, Senators, House of Representatives and Governors since 1850 onwards. The data obtained is from 1789 onwards, but before 1850 the political environment was very unstable, therefore I ommit the 1789-1850 period.
 
-
+The main aim of this project is to evaluate when the evolution of USA political distribution, at country and state levels.
 
 ## WorkFlow:
 The project is divided in three stages, data gathering, data cleaning and data analysis. Stages 1 and 2 are in separate notebook, where modules are created than can be inported in the third notebook where the analysis is also done.
