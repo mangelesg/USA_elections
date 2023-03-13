@@ -1,8 +1,8 @@
 # USA elections : When did the country became polarized?
 
-I have lived in USA for 9 years. I lived in Hawaii for 7 years where everyone I met was Democrat, so I thought most of the country was democrat too. Then, I got married and I moved to Florida, where everyone I have met was Republican. I have met and loved people from both states, so this strong disagreement in political views intrigued me. I have largely watch news from CNN and FOX trying to figure out what USA people really want. Unfirtunately, it seems that journalism is largeky biases, so I decided to do what Im best at: look at raw data to understand what is going on.
+I have lived in USA for 9 years. I lived in Hawaii for 7 years where everyone I met was Democrat, so I thought most of the country was democrat too. Then, I moved to Florida, where everyone I have met was Republican. I have met lovely people from both states, which now I consider my family and friends. But the strong disagreement in political views intrigued me. I have watch news from CNN and FOX trying to find out what most americans think. However, news have large biases, so I decided to do what Im best at: look at raw data to understand what is going on.
 
-Thus,  I scraped and analyses the results of elections for Presidents, Senators, House of Representatives and Governors since 1850 onwards. The data obtained is from 1789 onwards, but before 1850 the political environment was very unstable, therefore I ommit the 1789-1850 period.
+In this project, I scraped and analyses the results of elections for Presidents, Senators, House of Representatives and Governors since 1850 onwards. The data obtained is from 1789 onwards, but before 1850 the political environment was very unstable, therefore I ommit the 1789-1850 period.
 
 The main aim of this project is to evaluate when the evolution of USA political distribution, at country and state levels.
 
