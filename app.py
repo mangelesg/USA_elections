@@ -22,8 +22,8 @@ server = app.server
 
 ##******************** IMPORT DATA
 
-path = '/Users/angeles/Desktop/USA_elections/'
-datasets = pd.read_csv(path + 'datasets_all_branches.csv')
+
+datasets = pd.read_csv('datasets_all_branches.csv')
 
 
 
