@@ -1,3 +1,4 @@
+
 fig01.png
 fig02.png
 fig03.png
@@ -6,3 +7,7 @@ presidential_by_state.csv
 senators_by_state.csv
 .DS_Store
 .ipynb_checkpoints
+venv
+*.pyc
+.DS_Store
+.env
