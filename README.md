@@ -6,6 +6,13 @@ In this project, I scraped and analyses the results of elections for Presidents,
 
 The main aim of this project is to evaluate when the evolution of USA political distribution, at country and state levels.
 
+
+
+
+![history_github](https://user-images.githubusercontent.com/5301113/225057290-7e9caefd-a657-45d6-a4d7-406a8c4b563f.png)
+<em> Figure 1. Composition of USA Congress (Senate + House of Representatives) through time.  </em>
+
+
 ## WorkFlow:
 The project is divided in three stages, data gathering, data cleaning and data analysis. Stages 1 and 2 are in separate notebook, where modules are created than can be inported in the third notebook where the analysis is also done.
 
