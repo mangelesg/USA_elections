@@ -1,9 +1,16 @@
 # USA elections : When did the country became polarized?
 
-In this project I analyse the results of the elections for President, Senators, House of Representatives and Governors since 1900 onwards. The data obtained is from 1789 onwards, but before 1900 the political environment was very unstable, therefore I ommit the 1789-1900 period.
+I have lived in USA for 9 years. I lived in Hawaii for 7 years where everyone I met was Democrat, so I thought most of the country was democrat too. Then, I moved to Florida, where everyone I have met was Republican. I have met lovely people from both states, which now I consider my family and friends. But the strong disagreement in political views intrigued me. I have watch news from CNN and FOX trying to find out what most americans think. However, news have large biases, so I decided to do what Im best at: look at raw data to understand what is going on.
 
-The main aim of this project is to evaluate when did the states became polarized by becoming either Democrat or Republican.
+In this project, I scraped and analyses the results of elections for Presidents, Senators, House of Representatives and Governors since 1850 onwards. The data obtained is from 1789 onwards, but before 1850 the political environment was very unstable, therefore I ommit the 1789-1850 period.
 
+The main aim of this project is to evaluate when the evolution of USA political distribution, at country and state levels.
+
+
+
+
+![history_github](https://user-images.githubusercontent.com/5301113/225057290-7e9caefd-a657-45d6-a4d7-406a8c4b563f.png)
+<em> Figure 1. Composition of USA Congress (Senate + House of Representatives) through time.  </em>
 
 
 ## WorkFlow:
@@ -25,6 +32,7 @@ Finally, in "data_analysis.ipynb" I use the modules created on "data_scraping" a
 
 
 ## Main Conclusions:
-
+- The changes on political party dominance by state, has more to do with changes on the party's mentality than on the voters. For example, a state that is conservative shifst from Democrat before 1950 (since democrats where conservative, pro-slavery etc) to Republican after 1950 (Republicans started to become more conservative after this date).
+- Just looking at elections is not enough to determine the conservative/liberal political dominance of the country. We would have to add on data on the political views of each party evolving through time.
 - Most of the states became polarized during 1990's.
 - Many states switched from Republican to Democrat
