@@ -16,6 +16,8 @@ import plotly.graph_objects as go
 import plotly.io as pio
 import json
 
+app = Dash(__name__)
+server = app.server
 
 
 ##******************** IMPORT DATA
@@ -61,8 +63,7 @@ def negative_value_republicans(datasets, percents=['D_prcnt','R_prcnt','O_prcnt'
 	
 	
 	
-app = Dash(__name__)
-server = app.server
+
 
 trend_title = html.P(className="chart-header", children='Evolution of parties dominance')
 
