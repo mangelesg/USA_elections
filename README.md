@@ -1,20 +1,15 @@
 # USA elections : When did the country became polarized?
 
-I have lived in USA for 9 years. I lived in Hawaii for 7 years where everyone I met was Democrat, so I thought most of the country was democrat too. Then, I moved to Florida, where everyone I have met was Republican. I have met lovely people from both states, which now I consider my family and friends. But the strong disagreement in political views intrigued me. I have watch news from CNN and FOX trying to find out what most americans think. However, news have large biases, so I decided to do what Im best at: look at raw data to understand what is going on.
+As someone who has lived in different parts of the United States and witnessed the stark political differences among its citizens, I became interested in understanding when and how the country became polarized.
 
-In this project, I scraped and analyses the results of elections for Presidents, Senators, House of Representatives and Governors since 1850 onwards. The data obtained is from 1789 onwards, but before 1850 the political environment was very unstable, therefore I ommit the 1789-1850 period.
+To shed light on this question, I embarked on a project to analyze election results for Presidents, Senators, House of Representatives, and Governors from 1850 to the present day. While the data goes as far back as 1789, I decided to omit the period between 1789 and 1850 due to the political instability of that time.
 
-The main aim of this project is to evaluate when the evolution of USA political distribution, at country and state levels.
+Using web scraping techniques, I obtained raw data and performed analyses at both the national and state levels. By examining the evolution of the political distribution over time, I aim to better understand the nature and extent of polarization in American politics.
 
-
-
-
-![history_github](https://user-images.githubusercontent.com/5301113/225057290-7e9caefd-a657-45d6-a4d7-406a8c4b563f.png)
-<em> Figure 1. Composition of USA Congress (Senate + House of Representatives) through time.  </em>
-
+Join me on this journey as we explore the data and seek to answer the question of when and how polarization emerged in the United States.
 
 ## WorkFlow:
-The project is divided in three stages, data gathering, data cleaning and data analysis. Stages 1 and 2 are in separate notebook, where modules are created than can be inported in the third notebook where the analysis is also done.
+The project is divided in three stages: data gathering, data cleaning and data analysis. The scraping and cleaning of data are coded in separate notebooks which can be imported in the data analysis and dashboard notebooks.
 
 ### 1. Obtain the data
 In the jupyter notebook "data_scraping.ipynb" I use Selenium and BeautifulSoup to scrape the following websites:
@@ -30,9 +25,18 @@ The notebook "data_cleaning.ipynb" has the code to clean all the data. Remove un
 ### 3. Analyse the data
 Finally, in "data_analysis.ipynb" I use the modules created on "data_scraping" and "data_cleaning" to obtain, clean and analyse the data.
 
+## Dashboard
+The results can be explored in the Dashboard at \url{https://usa-elections-app.herokuapp.com}
 
 ## Main Conclusions:
-- The changes on political party dominance by state, has more to do with changes on the party's mentality than on the voters. For example, a state that is conservative shifst from Democrat before 1950 (since democrats where conservative, pro-slavery etc) to Republican after 1950 (Republicans started to become more conservative after this date).
-- Just looking at elections is not enough to determine the conservative/liberal political dominance of the country. We would have to add on data on the political views of each party evolving through time.
-- Most of the states became polarized during 1990's.
-- Many states switched from Republican to Democrat
+
+1. The US is currently experience a political polarization. By looking at data from 1850-2018 we see that already have been periods where the country was highly divided. These are periods in which the Democrats and Republicans dominates by 50% each. During other periods, the Congress has been largely dominated by Democratic Party (1930-1990) and before that by Republican Party (1850-1880). By looking at a longer time series one is able to identify that the current status does not mean a perpetual state of polarization, but most likely an evolving trend.
+
+![history_github](https://user-images.githubusercontent.com/5301113/225057290-7e9caefd-a657-45d6-a4d7-406a8c4b563f.png)
+<em> Figure 1. Composition of USA Congress (Senate + House of Representatives) through time.  </em>
+
+
+2. The changes on political party dominance by state, adre due to changes on the party's mentality than on the voters. For example, a state that is conservative shifst from Democrat before 1950 (since democrats where conservative, pro-slavery etc) to Republican after 1950 (Republicans started to become more conservative after this date).
+
+3. Just looking at elections is not enough to determine the conservative/liberal political dominance of the country. We would have to add on data on the political views of each party evolving through time.
+
