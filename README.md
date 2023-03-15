@@ -30,13 +30,17 @@ The results can be explored in the Dashboard at https://usa-elections-app.heroku
 
 ## Main Conclusions:
 
-1. The US is currently experience a political polarization. By looking at data from 1850-2018 we see that already have been periods where the country was highly divided. These are periods in which the Democrats and Republicans dominates by 50% each. During other periods, the Congress has been largely dominated by Democratic Party (1930-1990) and before that by Republican Party (1850-1880). By looking at a longer time series one is able to identify that the current status does not mean a perpetual state of polarization, but most likely an evolving trend.
+1. The US is currently experience  political polarization. However, by analyzing data from 1850-2018, we can see that there have been periods in the past where the country was highly divided, with the Democrats and Republicans evenly splitting the vote. Other periods saw the Congress dominated by the Democratic Party (1930-1990) or the Republican Party (1850-1880). By looking at a longer time series, we can identify that the current state of polarization is not necessarily permanent, but rather an evolving trend.
+
+The United States is currently experiencing political polarization. However, by analyzing data from 1850-2018, we can see that there have been periods in the past where the country was highly divided, with the Democrats and Republicans evenly splitting the vote. Other periods saw the Congress dominated by the Democratic Party (1930-1990) or the Republican Party (1850-1880).
+
+
 
 ![history_github](https://user-images.githubusercontent.com/5301113/225057290-7e9caefd-a657-45d6-a4d7-406a8c4b563f.png)
 <em> Figure 1. Composition of USA Congress (Senate + House of Representatives) through time.  </em>
 
 
-2. The changes on political party dominance by state, adre due to changes on the party's mentality than on the voters. For example, a state that is conservative shifst from Democrat before 1950 (since democrats where conservative, pro-slavery etc) to Republican after 1950 (Republicans started to become more conservative after this date).
+2. Changes in political party dominance by state are due more to changes in party mentality than to shifts in voter sentiment. For example, a state that was historically conservative shifted from Democrat to Republican after 1950, as the Democratic Party became more liberal while the Republican Party became more conservative.
 
-3. Just looking at elections is not enough to determine the conservative/liberal political dominance of the country. We would have to add on data on the political views of each party evolving through time.
+3. However, examining election results alone is not sufficient to determine the conservative/liberal political dominance of the country. We need additional data on how the political views of each party have evolved over time.
 
