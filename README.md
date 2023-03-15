@@ -26,7 +26,7 @@ The notebook "data_cleaning.ipynb" has the code to clean all the data. Remove un
 Finally, in "data_analysis.ipynb" I use the modules created on "data_scraping" and "data_cleaning" to obtain, clean and analyse the data.
 
 ## Dashboard
-The results can be explored in the Dashboard at \url{https://usa-elections-app.herokuapp.com}
+The results can be explored in the Dashboard at https://usa-elections-app.herokuapp.com
 
 ## Main Conclusions:
 
