@@ -1,4 +1,4 @@
-# USA elections : When did the country became polarized?
+# Tracing the Roots of Political Polarization in US Elections
 
 As someone who has lived in different parts of the United States and witnessed the stark political differences among its citizens, I became interested in understanding when and how the country became polarized.
 
