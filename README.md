@@ -32,9 +32,6 @@ The results can be explored in the Dashboard at https://usa-elections-app.heroku
 
 1. The US is currently experience  political polarization. However, by analyzing data from 1850-2018, we can see that there have been periods in the past where the country was highly divided, with the Democrats and Republicans evenly splitting the vote. Other periods saw the Congress dominated by the Democratic Party (1930-1990) or the Republican Party (1850-1880). By looking at a longer time series, we can identify that the current state of polarization is not necessarily permanent, but rather an evolving trend.
 
-The United States is currently experiencing political polarization. However, by analyzing data from 1850-2018, we can see that there have been periods in the past where the country was highly divided, with the Democrats and Republicans evenly splitting the vote. Other periods saw the Congress dominated by the Democratic Party (1930-1990) or the Republican Party (1850-1880).
-
-
 
 ![history_github](https://user-images.githubusercontent.com/5301113/225917194-704b88d1-6f08-4494-a025-e10e24a929e7.png)
 
