@@ -36,7 +36,8 @@ The United States is currently experiencing political polarization. However, by 
 
 
 
-![history_github](https://user-images.githubusercontent.com/5301113/225057290-7e9caefd-a657-45d6-a4d7-406a8c4b563f.png)
+![history_github](https://user-images.githubusercontent.com/5301113/225917194-704b88d1-6f08-4494-a025-e10e24a929e7.png)
+
 <em> Figure 1. Composition of USA Congress (Senate + House of Representatives) through time.  </em>
 
 
