@@ -40,5 +40,5 @@ The results can be explored in the Dashboard at https://usa-elections-app.heroku
 
 2. Changes in political party dominance by state are due more to changes in party mentality than to shifts in voter sentiment. For example, a state that was historically conservative shifted from Democrat to Republican after 1950, as the Democratic Party became more liberal while the Republican Party became more conservative.
 
-3. However, examining election results alone is not sufficient to determine the conservative/liberal political dominance of the country. We need additional data on how the political views of each party have evolved over time.
+3. However, examining election results alone is not sufficient to determine the conservative/liberal political dominance of the country. We need additional data on how the political views of each party have evolved over time..
 
